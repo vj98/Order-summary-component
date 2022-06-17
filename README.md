@@ -2,10 +2,10 @@ Created using html and css
 
 # Order Summary Component
 
-- Desktop
+* Desktop
   ![desktop](screenshot/desktop.png)
 
-- Mobile
+* Mobile
   ![mobile](screenshot/mobile.png)
 
 ## Deployed site link
