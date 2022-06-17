@@ -5,7 +5,7 @@ Created using html and css
 * Desktop
   ![desktop](screenshot/desktop.png)
 
-* Mobile
+* Mobile <br/>
   ![mobile](screenshot/mobile.png)
 
 ## Deployed site link
